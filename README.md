@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @AlbasAlka
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
+║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣
+╠╗║╚╝║║╠╗║╚╣║║║║║═╣
+╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
 
-<!---
-AlbasAlka/AlbasAlka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+$ pkg update && pkg upgrade
+$ pkg install git
+$ git clone https://github.com/AlbasAlka/Alka/
+& cd
+& ls
+$ cd Alka
+$ ls
+& pkg install pv -y
+$ pkg install wget -y
+$ bash empas.sh
+
+
+Copyright By ALKA
