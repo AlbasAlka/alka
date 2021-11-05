@@ -1,8 +1,10 @@
-            ╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
-            ║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣
-            ╠╗║╚╝║║╠╗║╚╣║║║║║═╣
-            ╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
+#         ╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗
+#         ║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣
+#         ╠╗║╚╝║║╠╗║╚╣║║║║║═╣
+#         ╚═╩══╩═╩═╩═╩╝╚╩═╩═╝
+# EMPASS ACCOUNT CHECKER
 
+## INSTALL<br />
 $ pkg update && pkg upgrade<br/>
 $ pkg install git<br/>
 $ git clone https://github.com/AlbasAlka/Alka/<br/>
@@ -14,6 +16,6 @@ $ ls<br/>
 $ pkg install wget -y<br/>
 $ bash empas.sh<br/>
 <br/>
-Copyright By ALBAS ALKA<br/>
-Fb : Albas Alka CieMeonx<br/>
+##Copyright By ALBAS ALKA<br/>
+##Fb : Albas Alka CieMeonx<br/>
 
