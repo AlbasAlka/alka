@@ -16,7 +16,9 @@ $ ls<br/>
 & pkg install pv -y<br/>
 $ pkg install wget -y<br/>
 $ bash empas.sh<br/>
+
 <br/>
-##Copyright By ALBAS ALKA<br/>
-##Fb : Albas Alka CieMeonx<br/>
+
+##  Copyright By ALBAS ALKA<br/>
+##  Fb : Albas Alka CieMeonx<br/>
 
