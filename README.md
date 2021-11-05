@@ -17,8 +17,6 @@ $ ls<br/>
 $ pkg install wget -y<br/>
 $ bash empas.sh<br/>
 
-<br/>
 
-##  Copyright By ALBAS ALKA<br/>
-##  Fb : Albas Alka CieMeonx<br/>
+
 
