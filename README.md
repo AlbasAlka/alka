@@ -8,7 +8,7 @@
 ## INSTALL<br />
 $ pkg update && pkg upgrade<br/>
 $ pkg install git<br/>
-$ git clone https://github.com/AlbasAlka/alka/<br/>
+$ git clone https://github.com/AlbasAlka/alka<br/>
 & cd<br/>
 & ls<br/>
 $ cd alka<br/>
